@@ -1,8 +1,8 @@
 # Site settings
-title: 青岛未来医疗新闻
+title: 青岛未来医疗
 SEOTitle: 未来医疗
 header-img: img/post-bg-coffee.jpeg 
-email: qingdaochenyixuan@gmail.com
+email: yirdoc@yirdoc.com
 description: "天天爱雾化"
 keyword: "未来医疗"
 url: "http://chenyixuan1.github.io"          # your host, for absolute URL
@@ -64,9 +64,9 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: a609d69db313df7379a1                            #生成的clientID
   clientSecret: f45fcf6d0d56bad0eb1ee4241c94af7d296e81bc    #生成的clientSecret
-  repo: qdchenyixuan.github.io    #仓库名称
-  owner: qdchenyixuan    #github用户名
-  admin: qdchenyixuan
+  repo: chenyixuan1.github.io    #仓库名称
+  owner: chenyixuan1    #github用户名
+  admin: chenyixuan1
   distractionFreeMode: false #是否启用类似FB的阴影遮罩
 
 
