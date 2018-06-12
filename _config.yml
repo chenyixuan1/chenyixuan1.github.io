@@ -1,10 +1,10 @@
 # Site settings
-title: 青岛未来医疗新闻发布
+title: 青岛未来医疗新闻
 SEOTitle: 未来医疗
 header-img: img/post-bg-coffee.jpeg 
 email: qingdaochenyixuan@gmail.com
 description: "天天爱雾化"
-keyword: "梁楠楠和陈奕璇的博客, 陈奕璇,梁楠楠"
+keyword: "未来医疗"
 url: "http://chenyixuan1.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/chenyixuan1/chenyixuangithub1.io.git" # you code repository
@@ -77,8 +77,8 @@ gitalk:
 #ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
 # Google Analytics
-ga_track_id: 'UA-116383479-1'            # Format: UA-xxxxxx-xx
-ga_domain: auto            # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+#ga_track_id: 'UA-116383479-1'            # Format: UA-xxxxxx-xx
+#ga_domain: auto            # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
