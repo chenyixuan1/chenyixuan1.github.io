@@ -12,7 +12,7 @@ github_repo: "https://github.com/chenyixuan1/chenyixuan1.github.io.git" # you co
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "让孩子爱上雾化"
-sidebar-avatar: /img/DdalQpjV0AAGINA (1).jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/logo_black.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
